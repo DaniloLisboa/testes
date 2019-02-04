@@ -1,4 +1,5 @@
 # testes
 Repositório de Teste - Primeira Utilização GitHub
 
-- just a repository
+Hey!
+I'm making this to test a new commit to my Master branch.
